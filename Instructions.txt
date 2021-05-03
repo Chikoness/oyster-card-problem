@@ -1,0 +1,11 @@
+OYSTER CARD PROBLEM
+Charlene A. @ https://github.com/Chikoness
+
+RUNNING THE FILE
+1) Open Terminal or Command Prompt.
+2) Set Path to where File is Located (using cd).
+3) Type “node main.js” and Click Enter.
+
+TESTING THE FILE
+1) Only run tests on function main()
+2) Instructions on how to run the code in console is written in function main()
